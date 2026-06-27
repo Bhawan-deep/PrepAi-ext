@@ -79,7 +79,7 @@ AI Explanation
 ### Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PrepAi-ext.git
+git clone https://github.com/Bhawan-deep/PrepAi-ext
 ```
 
 ### Frontend
@@ -106,7 +106,7 @@ npm start
 ```
 
 
-### 📸 Screenshots
+### Screenshots
 
 ### Home
 
@@ -120,7 +120,7 @@ npm start
 
 ![Loading](screenshots/loading.png)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 preppilot-ai/
