@@ -27,7 +27,7 @@ function App() {
         );
 
         const apiResponse = await fetch(
-            "http://localhost:5000/explain",
+            "https://prepai-ext.onrender.com/explain",
             {
                 method: "POST",
                 headers: {
