@@ -35,7 +35,7 @@ The extension automatically extracts the problem statement from the current Leet
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 LeetCode Page
 ⬇
@@ -53,7 +53,7 @@ AI Explanation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
