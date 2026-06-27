@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "PrepPilot AI",
+  "version": "1.0.0",
+  "description": "AI Interview Learning Assistant",
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
